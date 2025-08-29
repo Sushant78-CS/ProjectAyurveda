@@ -1,0 +1,232 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background-color: rgb(10, 1, 29);
+    color: white;
+}
+
+.decode {
+    font-size: 30px;
+    padding-left: 20px;
+    margin: 10px;
+}
+
+.home {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    gap: 20px;
+    background-color: rgb(17, 17, 59);
+    font-size: 22px;
+    padding-left: 13px;
+    height: 49px;
+}
+
+.home a {
+    color: white;
+    background-color: rgb(17, 17, 59);
+    text-decoration: none;
+    font-size: 25px;
+
+}
+
+.home a:hover {
+    color: rgb(62, 62, 161);
+    font-size: 29px;
+}
+
+
+.firstsection {
+    margin-top: 23px;
+}
+
+.firstsection h1 {
+    font-size: 22px;
+    padding: 0 10px;
+}
+
+.para {
+    padding: 13px;
+    font-size: 17px;
+
+}
+
+.What {
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 6px;
+    padding: 10px;
+}
+
+.secondsection {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+    font-size: 20px;
+}
+
+.take-quiz {
+    margin: 0 12px;
+}
+
+.section3 h1 {
+    font-size: 21px;
+    padding: 0 12px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.thirdsection {
+    padding: 0 19px;
+}
+
+.thirdsection label {
+    font-size: 17px;
+}
+
+.fourthsection {
+    padding: 0 19px;
+}
+
+.section4 h1 {
+    font-size: 21px;
+    padding: 0 12px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+
+
+.sixthsection {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    list-style: none;
+    font-size: 29px;
+}
+
+
+.sixthsection li {
+    margin: 21px 0;
+}
+
+.sixthsection li a {
+    text-decoration: none;
+    color: blue;
+
+}
+
+.sixthsection li a:hover {
+    color: rgb(21, 162, 228);
+    font-size: 31px;
+}
+
+
+
+.extra {
+    font-size: 30px;
+    font-weight: bold;
+    margin: 0 13px;
+}
+
+.virudh {
+    font-size: 21px;
+    font-weight: bold;
+    margin: 9px 13px;
+}
+
+.description div {
+    margin-top: 3px;
+    padding: 0 13px;
+}
+
+.example {
+    font-size: 21px;
+    font-weight: bold;
+    margin: 9px 13px;
+}
+
+.list {
+    margin-top: 3px;
+    padding: 0 13px;
+    margin-bottom: 19px;
+}
+
+.list div {
+    margin-top: 3px;
+    padding: 0 13px;
+}
+
+.footer1 {
+    background-color: rgb(5, 1, 22);
+    height: 200px;
+    padding-top: 19px;
+}
+
+.footer1 div {
+    background-color: rgb(5, 1, 22);
+    margin-top: 10px;
+    padding: 0 13px;
+}
+
+.Upper {
+    margin-top: 23px;
+    font-size: 17px;
+    font-weight: 600;
+    margin-bottom: 9px;
+}
+
+#submit {
+    background-color: red;
+    color: white;
+    height: 39px;
+    width: 100px;
+    border-radius: 91px;
+    margin: 10px;
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.checkdosha ul {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    list-style: none;
+
+
+}
+
+.checkdosha ul li {
+    border: 2px solid rgb(55, 55, 145);
+    border-radius: 21px;
+    padding: 11px;
+    margin: 10px;
+
+}
+
+.checkdosha a {
+    font-size: 31px;
+    text-decoration: none;
+
+
+}
+
+.checkdosha a:hover {
+    font-size: 35px;
+    color: rgb(97, 97, 202);
+}
+
+.knowMore {
+    padding: 13px;
+}
+
+.extra-para {
+    font-size: 21px;
+    font-weight: bold;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 0 10px;
+}
